@@ -25,8 +25,8 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/kingjux/Venocyber-md
-      cd Venocyber-md
+      git clone https://github.com/basanzietech/shakira-md
+      cd shakira-md
       yarn install --network-concurrency 1
       ```
 
@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="255698101622"
+      OWNER_NUMBER="255657779003"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg"
-      OWNER_NAME = "VenocyberTech"
+      THUMB_IMAGE = "https://telegra.ph/file/ac844db3d64b589e7168d.jpg"
+      OWNER_NAME = "BENJAMINI OMARY"
       PREFIX = .
       WARN_COUNT = 3
       DISABLE_PM = "false"
-      THEME= "VENOCYBER"
+      THEME= "SHAKIRA"
       MODE = "private"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
@@ -60,7 +60,7 @@
  
 <h2 align="center">  NOTICE </h2>
 
-- Gifted-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`
+- shakira-md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`
 - In that case, I'm not responsible for banning your account.
-- Use Venocyber-Md at your own risk by keeping this warning in mind.
+- Use shakira-md at your own risk by keeping this warning in mind.
  
