@@ -18,7 +18,7 @@ global.blockJids= process.env.BLOCK_JID || "120363029115223817@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Dar_es_Salaam";
-global.github=process.env.GITHUB|| "https://github.com/basanzietech/Venocyber-md";
+global.github=process.env.GITHUB|| "https://github.com/basanzietech/shakira-md";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaJX1NzCxoAyVGHlfY2l";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaJX1NzCxoAyVGHlfY2l" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ac844db3d64b589e7168d.jpg" ; // SET LOGO FOR IMAGE 
@@ -71,7 +71,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.0.0",
-  caption : process.env.CAPTION || "© basanzietech | shakira md" , // ```『 shakiramd 』```", //*『basanzietech YouTube』*\n youtube.com/@JAINMTEWA-vn9pl"),
+  caption : process.env.CAPTION || "© basanzietech | shakira md" , // ```『 shakiramd 』```", //*『basanzietech YouTube』*\n youtube.com/@basanzietech"),
   author : process.env.PACK_AUTHER|| "shakira-MD",
   packname: process.env.PACK_NAME || "♥️",
   botname : process.env.BOT_NAME  || "𝗦𝗵𝗮𝗸𝗶𝗿𝗮-𝗠𝗱",
