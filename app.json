@@ -2,14 +2,14 @@
   "name": "shakira-md",
   "description": "Hi there, I am Shakira Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t i am from tz 🇹🇿 who brings you into one chuddy buddy now you're all in one chuddy buddy enjoy Incase of Any Problem Whatsapp me on: +255657779003",
   "logo": "https://telegra.ph/file/ac844db3d64b589e7168d.jpg",
-  "keywords": ["whatsappbot", "VenocyberMd", "Venocyber Md bot", "Venocyber-Md", "VenocyberMdWhatsaooBot", "VenocyberWaBot","VenocyberMD","Shakira Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "shakiraMd", "shakira Md bot", "Shakira-Md", "shakiraMdWhatsaooBot", "ShakiraWaBot","shakiraMD","Shakira Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/suhail/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "benjamini omary",
+      "value": "ʙᴇɴᴊᴀᴍɪɴɪ ᴏᴍᴀʀʏ",
       "required" :true
     },   
     
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "Shakira-MD"
+      "value": "sʜᴀᴋɪʀᴀ-ᴍᴅ"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -132,12 +132,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "shakira md 👋",
+      "value": "shakira-md👋",
       "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Shakira MD 🇹🇿",
+      "value": "ʙᴏᴛ🇹🇿",
       "required": true 
     }
   }, 
