@@ -58,7 +58,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,255xxxxxxxx";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "255657779003,255xxxxxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app"
-global.scan = "https://myqr-43bb863fa5eb.herokuapp.com/";
+global.scan = "https://shakira-md-qr-code.onrender.com";
 
 
 global.SESSION_ID = process.env.SESSION_ID ||  "" ;
