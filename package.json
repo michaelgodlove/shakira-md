@@ -8,7 +8,7 @@
             "run": "pm2 start lib/smd.js --deep-monitoring --attach --name basanzietech || node lib/smd.js",
             "start": "pm2 start lib/smd.js --attach --name basanzietech || node lib/smd.js",
             "stop": "pm2 stop basanzietech",
-            "heroku-postbuild": "git clone https://github.com/basanzietech/Venocyber-md.git temp1 && mv temp1/.git .git && rm -rf temp1"
+            "heroku-postbuild": "git clone https://github.com/basanzietech/shakira-md.git temp1 && mv temp1/.git .git && rm -rf temp1"
    },
    "author": "BasanzieTech",
    "license" :"Apache-2.0",
@@ -72,8 +72,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/basanzietech/Venocyber-md.git"
+      "url": "git+https://github.com/basanzietech/shakira-md.git"
    },
-   "bugs": { "url": "https://github.com/basanzieti/Venocyber-md/issues" },
-   "homepage": "https://github.com/basanzietech/Venocyber-md#readme"
+   "bugs": { "url": "https://github.com/basanzietech/shakira-md/issues" },
+   "homepage": "https://github.com/basanzietech/shakira-md#readme"
 }
