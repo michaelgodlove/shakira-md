@@ -3,7 +3,7 @@
 
 
 FROM quay.io/suhailtechinfo/suhail-v2
-RUN git clone  https:/basanzietech/github.com//Venocyber-md /root/basanzietech
+RUN git clone  https:/basanzietech/github.com//shakira-md /root/basanzietech
 WORKDIR /root/basanzietech/
 RUN npm install
 EXPOSE 8000
